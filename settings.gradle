@@ -1,0 +1,2 @@
+rootProject.name='Movies Test Task'
+include ':app'
